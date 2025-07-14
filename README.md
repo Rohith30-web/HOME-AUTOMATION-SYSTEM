@@ -74,6 +74,7 @@ Temperature Sensor (Fan Control): Reads analog value from pin A0 (temperature se
 <img width="1440" height="762" alt="Image" src="https://github.com/user-attachments/assets/cbf7f6ef-b9e8-4b30-8b08-8da50900395f" />
 
 **After 2 seconds the door closes automatically**
+<img width="1443" height="743" alt="Image" src="https://github.com/user-attachments/assets/86353b4e-51a0-4fb6-ae4e-7f480eb44181" />
 
 **When a person is in the range of PIR sensor the lights turn on**
 
