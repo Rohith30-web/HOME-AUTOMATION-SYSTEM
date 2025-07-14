@@ -71,6 +71,7 @@ Temperature Sensor (Fan Control): Reads analog value from pin A0 (temperature se
 
 # OUTPUT:
 **When a person enters the door gets opened**
+<img width="1440" height="762" alt="Image" src="https://github.com/user-attachments/assets/cbf7f6ef-b9e8-4b30-8b08-8da50900395f" />
 
 **After 2 seconds the door closes automatically**
 
