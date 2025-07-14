@@ -86,3 +86,5 @@ Temperature Sensor (Fan Control): Reads analog value from pin A0 (temperature se
 <img width="1868" height="700" alt="Image" src="https://github.com/user-attachments/assets/ff68cc5b-a32f-4604-a1d7-9c358b6a4d13" />
 
 **When a person enters the room (temperature increases) then the fan turns on (when the temperate is more than 20*C)**
+https://github.com/user-attachments/assets/5a3924bd-fae9-48d4-8142-232df9cfa81c
+      **(press the link for video refference.)**
