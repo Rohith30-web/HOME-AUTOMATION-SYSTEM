@@ -80,6 +80,7 @@ Temperature Sensor (Fan Control): Reads analog value from pin A0 (temperature se
 <img width="1241" height="763" alt="Image" src="https://github.com/user-attachments/assets/e67845a4-635c-45ad-bea6-79fb85aae90e" />
 
 **When a person leaves the range of the of PIR sensor lights turn off**
+<img width="1224" height="757" alt="Image" src="https://github.com/user-attachments/assets/f4937ef7-cc85-4be7-9a89-29b871aca0ca" />
 
 **When a person leaves the room (temperature decreases) then the fan turns off (when the temperate is less than 20*C)**
 
