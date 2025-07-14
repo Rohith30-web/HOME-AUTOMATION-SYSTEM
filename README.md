@@ -77,6 +77,7 @@ Temperature Sensor (Fan Control): Reads analog value from pin A0 (temperature se
 <img width="1443" height="743" alt="Image" src="https://github.com/user-attachments/assets/86353b4e-51a0-4fb6-ae4e-7f480eb44181" />
 
 **When a person is in the range of PIR sensor the lights turn on**
+<img width="1241" height="763" alt="Image" src="https://github.com/user-attachments/assets/e67845a4-635c-45ad-bea6-79fb85aae90e" />
 
 **When a person leaves the range of the of PIR sensor lights turn off**
 
